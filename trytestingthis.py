@@ -1,18 +1,3 @@
-# # Imports
-# import pandas as pd
-# import time
-# from selenium import webdriver
-# from selenium.webdriver.chrome.service import Service as ChromeService
-# from webdriver_manager.chrome import ChromeDriverManager
-
-# # Create Driver
-# driver = webdriver.Chrome(service=ChromeService(ChromeDriverManager().install()))
-
-# page_url = "https://witcher.fandom.com/wiki/Category:Characters_in_the_stories"
-
-# driver.get(page_url)
-
-
 # Imports
 from selenium import webdriver
 # from webdriver_manager.chrome import ChromeDriverManager
